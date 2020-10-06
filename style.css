@@ -19,6 +19,11 @@
     font-weight: 300;
 }
 
+html {
+    width: 100%;
+    height: 100%;
+}
+
 body {
     font-family: 'Source Sans Pro', sans-serif;
     color: white;
